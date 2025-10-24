@@ -1,0 +1,14 @@
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.AssemblyInfoInputs.cache
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.AssemblyInfo.cs
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.csproj.CoreCompileInputs.cache
+C:\Users\mehin\source\repos\MXNtask\MXNtask\bin\Debug\net8.0\MXNtask.exe
+C:\Users\mehin\source\repos\MXNtask\MXNtask\bin\Debug\net8.0\MXNtask.deps.json
+C:\Users\mehin\source\repos\MXNtask\MXNtask\bin\Debug\net8.0\MXNtask.runtimeconfig.json
+C:\Users\mehin\source\repos\MXNtask\MXNtask\bin\Debug\net8.0\MXNtask.dll
+C:\Users\mehin\source\repos\MXNtask\MXNtask\bin\Debug\net8.0\MXNtask.pdb
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.dll
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\refint\MXNtask.dll
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.pdb
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\MXNtask.genruntimeconfig.cache
+C:\Users\mehin\source\repos\MXNtask\MXNtask\obj\Debug\net8.0\ref\MXNtask.dll
