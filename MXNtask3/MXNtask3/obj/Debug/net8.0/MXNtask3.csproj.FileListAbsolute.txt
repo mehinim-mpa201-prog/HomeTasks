@@ -1,0 +1,14 @@
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\bin\Debug\net8.0\MXNtask3.exe
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\bin\Debug\net8.0\MXNtask3.deps.json
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\bin\Debug\net8.0\MXNtask3.runtimeconfig.json
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\bin\Debug\net8.0\MXNtask3.dll
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\bin\Debug\net8.0\MXNtask3.pdb
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.AssemblyInfoInputs.cache
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.AssemblyInfo.cs
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.csproj.CoreCompileInputs.cache
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.dll
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\refint\MXNtask3.dll
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.pdb
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\MXNtask3.genruntimeconfig.cache
+C:\Users\mehin\source\repos\MXNtask3\MXNtask3\obj\Debug\net8.0\ref\MXNtask3.dll
