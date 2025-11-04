@@ -1,0 +1,14 @@
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.AssemblyInfoInputs.cache
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.AssemblyInfo.cs
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.csproj.CoreCompileInputs.cache
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\bin\Debug\net8.0\StudentManagementTask.exe
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\bin\Debug\net8.0\StudentManagementTask.deps.json
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\bin\Debug\net8.0\StudentManagementTask.runtimeconfig.json
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\bin\Debug\net8.0\StudentManagementTask.dll
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\bin\Debug\net8.0\StudentManagementTask.pdb
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.dll
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\refint\StudentManagementTask.dll
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.pdb
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\StudentManagementTask.genruntimeconfig.cache
+C:\Users\mehin\source\repos\StudentManagementTask\StudentManagementTask\obj\Debug\net8.0\ref\StudentManagementTask.dll
